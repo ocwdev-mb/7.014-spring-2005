@@ -1,0 +1,37 @@
+leftnav:
+- identifier: b270ae81-f55f-dc71-eec5-fef0cf2fa8de
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 85d0bdf0-939d-5da4-da38-5d6a2077f486
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 2894eb2f-6445-f646-6eaf-906bf576ca99
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 3889c722-095c-4bf0-9140-16a7998b93dd
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 40
+- identifier: 0577c68f-b3f6-262e-b1bd-1b9599779b64
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: d1c70f4d-402d-3fb3-4538-ed519e2430cc
+  name: Exams
+  pageRef: /pages/exams
+  weight: 60
+- identifier: 781f14d9-0e64-919c-2532-b99b626dd3f2
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 70
+- identifier: a6cdb6c1-f237-9b60-8fc3-dd7bcbce46d2
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 80
+- identifier: 8e6f371b-9263-7080-9df3-2ea299d37f32
+  name: Unit Questions
+  pageRef: /pages/unit-questions
+  weight: 90
